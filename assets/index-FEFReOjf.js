@@ -2218,9 +2218,9 @@ function Se(E) {
         R.value == "Pequeño" ? (g = "P") : (g = "G");
         let n = "precio" + g;
         switch (t.constructor.name) {
-          case "Patatas":
-          case "Refresco":
-          case "Nuggets":
+          case "pe":
+          case "me":
+          case "U":
             typeof C[t.nombre + g] < "u"
               ? (t.cantidad = Number(C[t.nombre + g][1]) + Number(I.value))
               : (t.cantidad = Number(I.value)),
