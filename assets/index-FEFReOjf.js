@@ -2053,7 +2053,7 @@ function Ce() {
       (e.className = "card card-compact w-96 h-1/2 bg-green-400"),
         (e.innerHTML = `
     <figure class="rounded-lg bg-white h-52 pt-5">
-      <img src="/${g.nombre}.png" alt="hamburguesa" />
+      <img src="./${g.nombre}.png" alt="hamburguesa" />
     </figure>
     <div class="card-body items-center text-center">
       <h2 class="card-title font-bold">${g.nombre}</h2>
@@ -2075,7 +2075,7 @@ function Ne() {
       (e.className = "card card-compact w-96 h-1/2 bg-green-400"),
         (e.innerHTML = `
     <figure class="rounded-lg bg-white h-52 pt-5">
-      <img src="/${g.nombre}.png" alt="complemento" />
+      <img src="./${g.nombre}.png" alt="complemento" />
     </figure>
     <div class="card-body items-center text-center">
       <h2 class="card-title font-bold">${g.nombre}</h2>
@@ -2097,7 +2097,7 @@ function Le() {
       (e.className = "card card-compact w-96 h-1/2 bg-green-400"),
         (e.innerHTML = `
     <figure class="rounded-lg bg-white h-52 pt-5">
-      <img src="/${g.nombre}.png" alt="bebida" />
+      <img src="./${g.nombre}.png" alt="bebida" />
     </figure>
     <div class="card-body items-center text-center">
       <h2 class="card-title font-bold">${g.nombre}</h2>
@@ -2119,7 +2119,7 @@ function Pe() {
       (e.className = "card card-compact w-96 h-1/2 bg-green-400"),
         (e.innerHTML = `
     <figure class="rounded-lg bg-white h-52 pt-5">
-      <img class="h-fit" src="/${g.nombre}.png" alt="postre" />
+      <img class="h-fit" src="./${g.nombre}.png" alt="postre" />
     </figure>
     <div class="card-body items-center text-center">
       <h2 class="card-title font-bold">${g.nombre}</h2>
